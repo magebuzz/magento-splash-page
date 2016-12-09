@@ -10,6 +10,14 @@ With  splash page, you can ask customers to accept conditions or cookies or show
 	* Log out and log in your backend again 
 * Usage 
 	* Create a new CMS page for splash with layout "splash"
-	* Go to System > Configuration > Web and click on tab Splash. Enable splash page and select CMS page for showing
-
-	
+	* Go to System > Configuration > Web and click on tab Splash. Enable splash page and select CMS page for showing. 
+* Sample code for CMS splash page
+	`
+	<div class="wrap">
+		<div class="sub-head">
+			<h2>Testing Splash Page</h2>
+			<p>Please click below button to visit the website</p>
+			<button id="enter-website-button" class="button" style="margin-top: 15px;" type="button"><span><span>Enter Website</span></span></button>
+		</div>
+	</div>
+	`

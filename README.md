@@ -21,3 +21,7 @@ With  splash page, you can ask customers to accept conditions or cookies or show
 		</div>
 	</div>
 	`
+
+## 3. Support
+* Website: [www.magebuzz.com] (http://www.magebuzz.com/)
+* Email: [support@magebuzz.com] (mailto:support@magebuzz.com)
